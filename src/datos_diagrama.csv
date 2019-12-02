@@ -1,0 +1,58 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Text Area 1
+1,Page,,,,,,,,,My First Document
+2,Process,Flowchart Shapes,1,,,,,,,Draw a line using the red dots surrounding the shape
+3,Process,Flowchart Shapes,1,,,,,,,Drag and drop the shape onto the canvas
+4,Decision,Flowchart Shapes,1,,,,,,,Done adding shapes?
+5,Process,Flowchart Shapes,1,,,,,,,"Style your diagram using the shape, line, and color settings in the properties bar above the canvas"
+6,Process,Flowchart Shapes,1,,,,,,,Type to add text inside
+7,Terminator,Flowchart Shapes,1,,,,,,,Start
+8,Decision,Flowchart Shapes,1,,,,,,,Find it?
+9,Process,Flowchart Shapes,1,,,,,,,"Click the ""     Shapes"" option in the left panel and look there"
+10,Process,Flowchart Shapes,1,,,,,,,Select the shape group and add it to the left panel
+11,Process,Flowchart Shapes,1,,,,,,,Click the import button to add a custom shape
+12,Process,Flowchart Shapes,1,,,,,,,Look for the shape you need in the left panel
+13,Process,Flowchart Shapes,1,,,,,,,Click the share button to put your diagram in front of the right people
+14,Decision,Flowchart Shapes,1,,,,,,,Find it?
+15,Text,Standard,1,,36,,,,,My First Document
+16,Text,Standard,1,,36,,,,,"Diego Bahena  |  December 1, 2019"
+17,Terminator,Flowchart Shapes,1,,,,,,,End
+18,SVGPathBlock2,,1,,,,,,,
+19,Line,,1,,,12,14,None,Arrow,
+20,Line,,1,,,14,3,None,Arrow,YES
+21,Line,,1,,,14,9,None,Arrow,NO
+22,Line,,1,,,7,12,None,Arrow,
+23,Line,,1,,,2,4,None,Arrow,
+24,Line,,1,,,4,12,None,Arrow,NO
+25,Line,,1,,,8,10,None,Arrow,YES
+26,Line,,1,,,8,11,None,Arrow,NO
+27,Line,,1,,,11,10,None,Arrow,
+28,Line,,1,,,6,2,None,Arrow,
+29,Line,,1,,,10,3,None,Arrow,
+30,Line,,1,,,5,13,None,Arrow,
+31,Line,,1,,,4,5,None,Arrow,YES
+32,Line,,1,,,3,6,None,Arrow,
+33,Line,,1,,,9,8,None,Arrow,
+34,Line,,1,,,13,17,None,Arrow,
+35,Line,,1,,36,15,15,None,None,
+36,Group 1,,1,,,,,,,
+37,Page,,,,,,,,,Page 2
+38,Process,Flowchart Shapes,37,,,,,,,Filtros
+39,Process,Flowchart Shapes,37,,,,,,,Estado de pista y puerta
+40,Process,Flowchart Shapes,37,,,,,,,Pasajeros
+41,Process,Flowchart Shapes,37,,,,,,,Rastreo de pasajeros
+42,Process,Flowchart Shapes,37,,,,,,,Conteo del areopuerto
+43,Process,Flowchart Shapes,37,,,,,,,Estados de vuelo
+44,Process,Flowchart Shapes,37,,,,,,,Vuelos que han llegado y salido
+45,Process,Flowchart Shapes,37,,,,,,,Tripulación
+46,Line,,37,,,41,42,None,Generalization,
+47,Line,,37,,,40,41,Composition,None,
+48,Line,,37,,,38,41,Composition,None,
+49,Line,,37,,,38,40,Aggregation,None,
+50,Line,,37,,,43,42,None,Generalization,
+51,Line,,37,,,43,39,None,Composition,
+52,Line,,37,,,39,44,None,Composition,
+53,Line,,37,,,41,43,None,Aggregation,
+54,Line,,37,,,39,42,None,Generalization,
+55,Line,,37,,,41,45,None,Composition,
+56,Line,,37,,,45,38,None,Aggregation,
+57,Line,,37,,,44,42,None,Generalization,
